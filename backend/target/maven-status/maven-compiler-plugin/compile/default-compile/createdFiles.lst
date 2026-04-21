@@ -1,0 +1,5 @@
+com\companyinsights\scraper\WebScraper.class
+com\companyinsights\service\CompanyService.class
+com\companyinsights\controller\CompanyController.class
+com\companyinsights\model\Company.class
+com\companyinsights\CompanyInsightsApplication.class
